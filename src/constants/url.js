@@ -1,0 +1,1 @@
+export const ZXING_URL = 'intent://scan/#Intent;scheme=zxing;package=com.google.zxing.client.android;S.browser_fallback_url=http%3A%2F%2Fzxing.org;end'

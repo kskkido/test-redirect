@@ -1,0 +1,16 @@
+.button {
+  height: 44px;
+  width: 100%;
+  font-size: 14px;
+  margin: 0em 0.25em 0em 0em;
+  padding: 0.78571429em 1.5em 0.78571429em;
+  background-color: #29abe9;
+  color: #FFFFFF;
+  text-shadow: none;
+  background-image: none;
+  text-align: center;
+  box-shadow: 0 2px 0 #408fb6;
+  outline: none;
+  border: none;
+  border-radius: 0.28571429rem;
+}
